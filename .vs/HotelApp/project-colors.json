@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1fdf0b8c-98b0-42ac-9dc3-872195ae0561": {
+      "ProjectGuid": "1fdf0b8c-98b0-42ac-9dc3-872195ae0561",
+      "DisplayName": "HotelAppDB",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cc1a333a-5e27-473f-bf68-f2960f3f3fa6": {
+      "ProjectGuid": "cc1a333a-5e27-473f-bf68-f2960f3f3fa6",
+      "DisplayName": "HotelAppLibrary",
+      "ColorIndex": 1
+    },
+    "5c89290c-3bb3-4d25-b296-a33708d525a5": {
+      "ProjectGuid": "5c89290c-3bb3-4d25-b296-a33708d525a5",
+      "DisplayName": "HotelApp.Web",
+      "ColorIndex": 2
+    },
+    "ae0f10c1-e512-4cb4-8b8b-8ce4b3cd87f1": {
+      "ProjectGuid": "ae0f10c1-e512-4cb4-8b8b-8ce4b3cd87f1",
+      "DisplayName": "HotelApp.Web",
+      "ColorIndex": 3
+    },
+    "3478143f-7348-435f-9335-550d352292d7": {
+      "ProjectGuid": "3478143f-7348-435f-9335-550d352292d7",
+      "DisplayName": "HotelApp.Desktop",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

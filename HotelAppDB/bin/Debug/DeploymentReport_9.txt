@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[spBookings_CheckIn] (Procedure)
+       [dbo].[spBookings_insert] (Procedure)
+       [dbo].[spBookings_Search] (Procedure)
+       [dbo].[spGuests_Insert] (Procedure)
+       [dbo].[spRooms_GetAvailableRooms] (Procedure)
+
+** Supporting actions

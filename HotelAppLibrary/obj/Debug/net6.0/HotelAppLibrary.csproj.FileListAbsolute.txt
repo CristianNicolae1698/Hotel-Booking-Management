@@ -1,0 +1,12 @@
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\bin\Debug\net6.0\HotelAppLibrary.deps.json
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\bin\Debug\net6.0\HotelAppLibrary.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\bin\Debug\net6.0\ref\HotelAppLibrary.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\bin\Debug\net6.0\HotelAppLibrary.pdb
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.AssemblyInfo.cs
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\ref\HotelAppLibrary.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppLibrary\obj\Debug\net6.0\HotelAppLibrary.pdb

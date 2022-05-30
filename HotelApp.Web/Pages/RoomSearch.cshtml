@@ -1,0 +1,49 @@
+﻿@page
+@model HotelApp.Web.Pages.RoomSearchModel
+@{
+	ViewData["Title"] = "Room Search";
+}
+<h1>Room Search</h1>
+
+<form method="post">
+	<div class="form-group">
+		<label asp-for="@Model.startDate">Start Date</label>
+		<input asp-for="@Model.startDate"/>
+	</div>
+	<div class="form-group">
+		<label asp-for="@Model.endDate">End Date</label>
+		<input asp-for="@Model.endDate"/>
+	</div>
+	<button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model.AvailableRoomTypes?.Count > 0)
+{
+	<h2>Results</h2>
+	<table class="table">
+		<thead>
+		<tr>
+			<th>Room Type</th>
+			<th>Price</th>
+			<th></th>
+		</tr>
+		</thead>
+		<tbody>
+		@foreach (var room in Model.AvailableRoomTypes)
+		{
+			<tr>
+				<td>
+					<strong>@room.Title</strong><br/>
+					@room.Description
+				</td>
+				<td>@string.Format("{0:C}",room.Price)</td>
+				<td><a asp-page="/BookRoom" 
+				       asp-route-roomtypeid="@room.Id" 
+				       asp-route-startdate="@Model.startDate.ToShortDateString()" 
+				       asp-route-enddate="@Model.endDate.ToShortDateString()">Book Now</a></td>
+			</tr>
+		}
+		</tbody>
+	</table>
+	
+}

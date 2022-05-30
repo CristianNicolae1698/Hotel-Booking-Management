@@ -1,0 +1,6 @@
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\crist\Documents\Visual Studio 2022\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
